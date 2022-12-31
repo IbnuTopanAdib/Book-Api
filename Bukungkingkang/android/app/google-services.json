@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685089125345",
+    "project_id": "loginwithoutfb",
+    "storage_bucket": "loginwithoutfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685089125345:android:e5663e2099755f936d58a0",
+        "android_client_info": {
+          "package_name": "com.example.buku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685089125345-nfhqk22qst7ikv6pe1ce850dmvo1am35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEc5upXyx7mB5UDG08z6p5HK_WiWKs0Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685089125345-nfhqk22qst7ikv6pe1ce850dmvo1am35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
